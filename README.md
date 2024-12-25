@@ -177,7 +177,7 @@
             Zatwierdzenie podejścia przez Zarząd
             <br>
             <a href="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/HoDP_CMS-2024-12-25-185228-mjIn2Ad4NFY8oIH8WU33X8VuxzTpQb.png" target="_blank">
-                📊 <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/HoDP_CMS-2024-12-25-185228-mjIn2Ad4NFY8oIH8WU33X8VuxzTpQb.png" 
+                <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/HoDP_CMS-2024-12-25-185228-mjIn2Ad4NFY8oIH8WU33X8VuxzTpQb.png" 
                      alt="Diagram struktury systemu CMS" 
                      style="max-width: 100%; height: auto; margin: 20px 0;">
             </a>
