@@ -78,7 +78,7 @@
     </ul>
 
     <h2>3. Rekomendacja: Podejście hybrydowe</h2>
-    <p>Proponuję podejście hybrydowe, łączące zalety zamówienia dedykowanego systemu i budowania własnego zespołu:</p>
+    <p>Proponujemy podejście hybrydowe, łączące zalety zamówienia dedykowanego systemu i budowania własnego zespołu:</p>
     <ul>
         <li>Współpraca z zewnętrzną firmą deweloperską w początkowej fazie projektu</li>
         <li>Równoległe budowanie wewnętrznego zespołu IT</li>
@@ -105,6 +105,11 @@
     <p>To podejście pozwoli na szybkie rozpoczęcie prac nad nowym systemem, wykorzystując doświadczenie zewnętrznej firmy, jednocześnie budując własne kompetencje. W długim terminie zapewni to większą elastyczność, kontrolę nad systemem oraz optymalizację kosztów. Jest to szczególnie istotne w kontekście specyficznych wymagań naszego wydawnictwa oraz potrzeby ciągłej adaptacji do zmieniających się wymogów rynku i Google.</p>
 
     <h2>4. Plan wdrożenia</h2>
+    <a href="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Untitled%20diagram-2024-12-25-172756-LQExldmagioEKK258hPVYg8spnOeYD.png" target="_blank">
+        <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Untitled%20diagram-2024-12-25-172756-LQExldmagioEKK258hPVYg8spnOeYD.png" 
+             alt="Diagram struktury zespołu i faz projektu" 
+             style="max-width: 100%; height: auto; margin: 20px 0;">
+    </a>
     <ol>
         <li>Wybór firmy deweloperskiej</li>
         <li>Rekrutacja wewnętrznego zespołu IT</li>
@@ -148,7 +153,7 @@
     <h2>8. Struktura zespołu w modelu hybrydowym</h2>
     <h3>Skład zespołu:</h3>
     <ol>
-        <li>Head of Digital Product / Project Manager (od początku projektu)</li>
+        <li><a href="https://vamos202.github.io/cms_GN_analyze/" target="_blank">Head of Digital Product / Project Manager (od początku projektu)</a></li>
         <li>Specjalista SEO techniczny (od fazy planowania)</li>
         <li>Programista Back-end (od początku fazy rozwoju)</li>
         <li>Programista Front-end (od początku fazy rozwoju)</li>
