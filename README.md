@@ -173,11 +173,17 @@
 
     <h2>9. Następne kroki</h2>
     <ul>
-        <li>Zatwierdzenie podejścia przez Zarząd</li>
+        <li>
+            Zatwierdzenie podejścia przez Zarząd
+            <br>
+            <a href="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/HoDP_CMS-2024-12-25-185228-mjIn2Ad4NFY8oIH8WU33X8VuxzTpQb.png" target="_blank">
+                📊 <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/HoDP_CMS-2024-12-25-185228-mjIn2Ad4NFY8oIH8WU33X8VuxzTpQb.png" 
+                     alt="Diagram struktury systemu CMS" 
+                     style="max-width: 100%; height: auto; margin: 20px 0;">
+            </a>
+        </li>
         <li>Rozpoczęcie procesu wyboru firmy deweloperskiej</li>
         <li>Opracowanie szczegółowego harmonogramu i budżetu projektu</li>
         <li>Rozpoczęcie rekrutacji kluczowych członków zespołu wewnętrznego</li>
     </ul>
-</body>
-</html>
 
