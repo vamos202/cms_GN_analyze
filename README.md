@@ -78,7 +78,7 @@
     </ul>
 
     <h2>3. Rekomendacja: Podejście hybrydowe</h2>
-    <p>Proponujemy podejście hybrydowe, łączące zalety zamówienia dedykowanego systemu i budowania własnego zespołu:</p>
+    <p>Proponuję podejście hybrydowe, łączące zalety zamówienia dedykowanego systemu i budowania własnego zespołu:</p>
     <ul>
         <li>Współpraca z zewnętrzną firmą deweloperską w początkowej fazie projektu</li>
         <li>Równoległe budowanie wewnętrznego zespołu IT</li>
