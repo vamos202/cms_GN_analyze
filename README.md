@@ -153,7 +153,7 @@
     <h2>8. Struktura zespołu w modelu hybrydowym</h2>
     <h3>Skład zespołu:</h3>
     <ol>
-        <li><a href="https://vamos202.github.io/cms_GN_analyze/" target="_blank">Head of Digital Product / Project Manager (od początku projektu)</a></li>
+        <li><a href="https://vamos202.github.io/head_of_DP/" target="_blank">Head of Digital Product / Project Manager (od początku projektu)</a></li>
         <li>Specjalista SEO techniczny (od fazy planowania)</li>
         <li>Programista Back-end (od początku fazy rozwoju)</li>
         <li>Programista Front-end (od początku fazy rozwoju)</li>
