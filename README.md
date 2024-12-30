@@ -159,6 +159,7 @@
         <li>Programista Front-end (od początku fazy rozwoju)</li>
         <li>Specjalista baz danych (od fazy planowania architektury)</li>
         <li>UX/UI Designer (od fazy planowania interfejsu)</li>
+        <li>Projektant/Grafik (od fazy planowania interfejsu)</li>
         <li>Tester QA (od początku fazy testów)</li>
         <li>Specjalista SEO contentowy (od fazy przygotowania do migracji i optymalizacji treści)</li>
     </ol>
