@@ -20,6 +20,7 @@
             margin-bottom: 20px;
         }
     </style>
+     <link rel="icon" type="image/jpg" href="blast.jpg">
 </head>
 <body>
     <h1>Analiza i rekomendacje dotyczące nowego systemu CMS</h1>
