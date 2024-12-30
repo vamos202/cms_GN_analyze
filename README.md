@@ -128,6 +128,11 @@
     </ul>
 
     <h2>6. Szacunkowe koszty</h2>
+    <p>
+            <a href="scanariusze_kosztowe.xlsx" download>
+                📊 Pobierz szczegółową analizę kosztów (Excel)
+            </a>
+        </p>
     <h3>Koszty początkowe:</h3>
     <ul>
         <li>Wynagrodzenie firmy deweloperskiej</li>
