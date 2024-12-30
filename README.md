@@ -129,7 +129,7 @@
 
     <h2>6. Szacunkowe koszty</h2>
     <p>
-            <a href="scanariusze_kosztowe.xlsx" download>
+            <a href="scenariusze_kosztowe.xlsx" download>
                 📊 Pobierz szczegółową analizę kosztów (Excel)
             </a>
         </p>
