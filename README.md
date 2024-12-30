@@ -168,7 +168,7 @@
     <ul>
         <li>Faza 1 (Planowanie): Head of Digital Product, Specjalista SEO techniczny, Specjalista baz danych, Projektant/Grafik, UX/UI Designer</li>
         <li>Faza 2 (Rozwój): Programiści Back-end i Front-end</li>
-        <li>Faza 3 (Przygotowanie do migracji i optymalizacji treści): Specjalista SEO contentowy</li>
+        <li>Faza 3 (Przygotowanie do migracji danych i optymalizacji treści): Specjalista SEO contentowy</li>
         <li>Faza 4 (Testy i Wdrożenie): Tester QA</li>
     </ul>
 
