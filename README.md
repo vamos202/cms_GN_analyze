@@ -157,7 +157,7 @@
         <li>Specjalista SEO techniczny (od fazy planowania)</li>
         <li>Programista Back-end (od początku fazy rozwoju)</li>
         <li>Programista Front-end (od początku fazy rozwoju)</li>
-        <li>Specjalista baz danych (od fazy planowania architektury)</li>
+        <li>IT Leader/Specjalista baz danych (od fazy planowania architektury)</li>
         <li>UX/UI Designer (od fazy planowania interfejsu)</li>
         <li>Projektant/Grafik (od fazy planowania interfejsu)</li>
         <li>Tester QA (od początku fazy testów)</li>
@@ -166,7 +166,7 @@
 
     <h3>Harmonogram zatrudnienia:</h3>
     <ul>
-        <li>Faza 1 (Planowanie): Head of Digital Product, Specjalista SEO techniczny, Specjalista baz danych, Projektant/Grafik, UX/UI Designer</li>
+        <li>Faza 1 (Planowanie): Head of Digital Product, Specjalista SEO techniczny, IT Leader/Specjalista baz danych, Projektant/Grafik, UX/UI Designer</li>
         <li>Faza 2 (Rozwój): Programiści Back-end i Front-end</li>
         <li>Faza 3 (Przygotowanie do migracji danych i optymalizacji treści): Specjalista SEO contentowy</li>
         <li>Faza 4 (Testy i Wdrożenie): Tester QA</li>
