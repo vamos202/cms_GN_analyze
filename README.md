@@ -13,11 +13,26 @@
             margin: 0 auto;
             padding: 20px;
         }
-        h1, h2, h3 {
+        h1, h2, h3, h4 {
             color: #2c3e50;
+        }
+        h1 {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            margin-top: 30px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
         }
         ul, ol {
             margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .subsection {
+            margin-left: 20px;
         }
     </style>
      <link rel="icon" type="image/jpg" href="blast.jpg">
